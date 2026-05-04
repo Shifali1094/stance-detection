@@ -1,5 +1,4 @@
 PyYAML==6.0.3
-datasets==4.8.5
 huggingface_hub==1.13.0
 ipython_pygments_lexers==1.1.1
 jupyter_client==8.8.0
@@ -7,6 +6,5 @@ jupyter_core==5.9.1
 mdurl==0.1.2
 pip-chill==1.0.5
 pure_eval==0.2.3
-scikit-learn==1.8.0
 stack-data==0.6.3
 wordcloud==1.9.6
